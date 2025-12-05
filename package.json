@@ -9,17 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mediapipe/tasks-vision": "latest",
-    "@react-three/drei": "latest",
-    "@react-three/fiber": "latest",
-    "next": "^16.0.7",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
-    "three": "latest"
-  },
-  "devDependencies": {
-    "autoprefixer": "latest",
-    "postcss": "latest",
-    "tailwindcss": "latest"
+    "next": "15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.170.0",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/drei": "^9.117.3",
+    "@mediapipe/tasks-vision": "^0.10.17",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0"
   }
 }
