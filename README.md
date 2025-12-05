@@ -30,9 +30,10 @@ Framework: Next.js
 
 Computer Vision: Google MediaPipe Tasks Vision
 
-<p align="center">
-พัฒนาด้วยความสนุก 💖 โดย [scodev]
-</p>
 Styling: Tailwind CSS
 
 Deployment: Vercel
+
+<p align="center">
+พัฒนาด้วยความสนุก 💖 โดย [scodev]
+</p>
